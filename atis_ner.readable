@@ -1,0 +1,10 @@
+Version 8.1.1
+Min label:0.000000
+Max label:1.000000
+bits:18
+lda:0
+0 ngram: 
+0 skip: 
+options: --search_task hook --search 127 --search_trained_nb_policies 0 --search_total_nb_policies 1 --csoaa 127
+Checksum: 514899246
+:0
